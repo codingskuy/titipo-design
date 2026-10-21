@@ -7,10 +7,23 @@
 ## Isi
 
 ```text
-tokens/README.md   # warna, tipografi, radius, ikon
+tokens/tokens.json # sumber nilai token (warna, tipografi, radius, ikon, pasangan kontras)
+tokens/README.md   # pemakaian token
+tokens/komponen/   # komponen baku (banner luring, rincian harga)
+tokens/verify-kontras.mjs # verifikasi kontras 4,5:1
 flows/README.md    # flow titip harian (rumah tangga + vendor)
 screens/README.md  # daftar layar per peran
 ```
+
+## Link Figma
+
+| Berkas | Link | Status |
+|---|---|---|
+| Token + komponen (TTP-DSG-002) | _belum ada_ | Menunggu pemilik desain membuat file Figma; agent tidak dapat membuat/mengarang tautan |
+| Flow + layar rumah tangga (TTP-DSG-003) | _belum ada_ | idem |
+| Layar vendor (TTP-DSG-004) | _belum ada_ | idem |
+
+Sumber kebenaran sementara: berkas Markdown/JSON di repo ini. Isi tabel ini saat file Figma tersedia.
 
 ## Prinsip
 
