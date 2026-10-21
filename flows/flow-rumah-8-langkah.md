@@ -56,7 +56,7 @@ Lanjutan (PRD/20-alur): Sari konfirmasi; ambil di titik serah Lumbung Blok A 04.
 
 ## Aturan
 
-- Batal hanya sebelum status serah (README lama: "sebelum diantar"; lihat catatan ketidakselarasan di `screens/rumah/README.md`).
+- Batal hanya sebelum status `diantar` (aturan dari README flow lama; tidak ada di dokumen beku, perlu konfirmasi pemilik produk).
 - Notifikasi pada setiap perubahan status.
 - Checkout hanya di mobile; tidak ada layar admin di mobile dan tidak ada checkout di web (Matriks Platform).
 - Uang integer rupiah; angka mobile hanya pratinjau, hitungan sah server.
