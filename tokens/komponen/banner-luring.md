@@ -16,7 +16,7 @@ Tiket TTP-DSG-002; layar pemakai: 3 layar vendor (TTP-DSG-004). Acuan: `FSD/10-a
 | Wadah | Latar `sekunder` (#F5A524), tinggi minimal 48 dp, lebar penuh, tanpa radius (menempel di bawah bilah atas) |
 | Ikon | `luring` (awan-coret), warna `teks-utama`, 24 dp |
 | Teks | "Luring — aksi akan dikirim otomatis", `isi` 14/20, warna `teks-utama` (8,43:1) |
-| Badge antrean | Pil bulat latar `teks-utama`, angka `teks-di-primer`? Tidak: angka warna `permukaan` (#FFFFFF) di atas `teks-utama` (17,20:1), `label-kecil` 12/16; ukuran min 24 dp |
+| Badge antrean | Pil bulat latar `teks-utama`, angka warna `permukaan` (#FFFFFF) di atas `teks-utama` (17,20:1), `label-kecil` 12/16; ukuran min 24 dp |
 
 ## Perilaku
 
